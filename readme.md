@@ -1,4 +1,5 @@
 # Introduction
-https://github.com/Miandacy/TissusAfricain
+https://miandacy.github.io/TissusAfricain/
+
 
 
